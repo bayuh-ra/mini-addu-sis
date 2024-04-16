@@ -1,0 +1,7 @@
+.navbar {
+    background: url(images/nav2.png) center center no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 140px;
+    background-image:-moz-linear-gradient();
+  }
